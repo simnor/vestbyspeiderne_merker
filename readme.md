@@ -20,8 +20,8 @@ Aktivitetene er hentet 25.10.2026 fra åpent tilgjengelige aktivitetsbanker og a
 
 | Kilde | Land | Nettside | Antall |
 |---|---|---|---|
-| Speiderbasen (Norges Speiderforbund) | Norge | speiding.no/speiderprogram/speiderbasen | 1431 |
-| Aktivitetsbanken (KFUK-KFUM-speiderne) | Norge | kmspeider.no/speiderprogram/aktivitetsbanken | 1122 |
+| Speiderbasen (Norges Speiderforbund) | Norge | speiding.no/speiderprogram/speiderbasen | 1304 |
+| Aktivitetsbanken (KFUK-KFUM-speiderne) | Norge | kmspeider.no/speiderprogram/aktivitetsbanken | 1005 |
 | Aktivitetsbanken (Scouterna) | Sverige | aktivitetsbanken.se | 741 |
 | Aktiviteter (Det Danske Spejderkorps, DDS) | Danmark | dds.dk/aktiviteter | 692 |
 
